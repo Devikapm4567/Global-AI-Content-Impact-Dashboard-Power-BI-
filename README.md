@@ -18,3 +18,19 @@ The objective of this Power BI dashboard is to provide a clear analysis of the g
 - How do human-AI collaboration rates vary across countries?
 
 -<a href="https://github.com/Devikapm4567/Global-AI-Content-Impact-Dashboard-Power-BI-/blob/main/Screenshot%202025-09-26%20112444.png">dashboard</a>
+
+## DATA PROCESSING
+- The dataset was taken from Kaggle.
+- Removed blank rows and blank columns to ensure consistency.
+- Filtered rows in alphabetical order to maintain a structured dataset.
+- After cleaning and filtering, the dataset was loaded into Power BI for building interactive dashboards and analysis.
+
+## INSIGHTS
+- Gaming and Media industries face the highest job loss but also generate the most AI-driven content.
+- Media and Gaming see the largest revenue growth from AI, while Finance and Healthcare grow slower.
+- France, UK, and India lead in AI adoption, while Australia and Canada lag behind.
+- AI regulations vary globally, with both increases and decreases across years.
+- USA, UK, China, India, and Japan show the highest human–AI collaboration rates.
+
+## CONCLUSION
+This Power BI dashboard highlights the dual impact of AI adoption across industries and countries. While sectors like Gaming and Media face significant job displacement, they also experience strong revenue growth and content generation benefits. Countries such as France, UK, and India are leading in AI adoption, whereas others show slower integration due to regulatory and structural challenges. The analysis also reveals that human–AI collaboration is becoming a global trend, proving that the future lies not in replacing humans, but in enhancing productivity through synergy between humans and AI.
