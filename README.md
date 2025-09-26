@@ -6,3 +6,15 @@ The objective of this Power BI dashboard is to provide a clear analysis of the g
 
 ## DATABASE 
 -<a href="https://github.com/Devikapm4567/Global-AI-Content-Impact-Dashboard-Power-BI-/blob/main/archive%20(8).zip">dataset</a>
+## KPI
+- Which industries are experiencing the highest percentage of job loss due to AI adoption?
+
+- How much revenue growth is being driven by AI across different industries?
+
+- Which countries have the highest AI adoption rates globally?
+
+- What is the total volume of AI-generated content produced by each industry?
+
+- How do human-AI collaboration rates vary across countries?
+
+-<a href="https://github.com/Devikapm4567/Global-AI-Content-Impact-Dashboard-Power-BI-/blob/main/Screenshot%202025-09-26%20112444.png">dashboard</a>
